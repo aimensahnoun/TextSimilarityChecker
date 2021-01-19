@@ -39,7 +39,7 @@ Some structs have been defined in this program in order to make it easier to hol
 
 ## Exemplary outputs
 
- 1. Comparing four movie scripts with repeating the mine file 4 times.
+ 1. Comparing four movie scripts with repeating the main file 4 times for a total of 240,000 words.
 **![](https://lh3.googleusercontent.com/fLUkhQFcVXnv2maNYyTSY_KEUFNaDFp1us6SrdyZJYBiXrznZWP8ezu7i5qW54YRbDCfNR6texpjA8K5CYcV8eFzDNbamZ2XZ8twVlC288k7d9G6Y3erkSja_83ZuLoE0NDIxMN6)**
 2-Comaparing a direct plagiarism example and comparing it to an advanced plagiarism detection tool (Program does not check for related meanings)
 **![](https://lh3.googleusercontent.com/lT2sz9weaouenGVMrS_DpBtO0MPRhcwYe1MlnDWhX1sp6DKK_RWZrokFWBIksludhd55UV_zDfa9Ceki8MyHrGGFrh2P53HQdJlpBzG5fnhh3MQx5UfMTQrAjPqPXZy5uoH1wC8F)****![](https://lh5.googleusercontent.com/cFfYEtFId6zNmaxDmjHCF40ZYnCWzZgaHoiDfDSV0XW8BHMeWlaXJVRuiPQiMKRfcJifFyLyJcpHONCWRoq_vpRD216HBdgfYLfAyMfAfx0yIMs7LEjS5s0BNY1vH0_Ml9tnFsU5)**
