@@ -40,12 +40,12 @@ Some structs have been defined in this program in order to make it easier to hol
 ## Exemplary outputs
 
  1. Comparing four movie scripts with repeating the main file 4 times for a total of 240,000 words.
-**![](https://lh3.googleusercontent.com/fLUkhQFcVXnv2maNYyTSY_KEUFNaDFp1us6SrdyZJYBiXrznZWP8ezu7i5qW54YRbDCfNR6texpjA8K5CYcV8eFzDNbamZ2XZ8twVlC288k7d9G6Y3erkSja_83ZuLoE0NDIxMN6)**
+**![](https://user-images.githubusercontent.com/62159014/110239806-ff7b0000-7f59-11eb-9b36-89fe73dc9bbd.jpg)**
 
 2-Comaparing a direct plagiarism example and comparing it to an advanced plagiarism detection tool (Program does not check for related meanings)
-**![](https://lh3.googleusercontent.com/lT2sz9weaouenGVMrS_DpBtO0MPRhcwYe1MlnDWhX1sp6DKK_RWZrokFWBIksludhd55UV_zDfa9Ceki8MyHrGGFrh2P53HQdJlpBzG5fnhh3MQx5UfMTQrAjPqPXZy5uoH1wC8F)****![](https://lh5.googleusercontent.com/cFfYEtFId6zNmaxDmjHCF40ZYnCWzZgaHoiDfDSV0XW8BHMeWlaXJVRuiPQiMKRfcJifFyLyJcpHONCWRoq_vpRD216HBdgfYLfAyMfAfx0yIMs7LEjS5s0BNY1vH0_Ml9tnFsU5)**
+**![](https://user-images.githubusercontent.com/62159014/110239821-233e4600-7f5a-11eb-84a8-36fa93a61986.jpg)****![](https://user-images.githubusercontent.com/62159014/110239841-381ad980-7f5a-11eb-923a-38be8e3261fa.jpg)**
 
 3-Another direct plagiarism example
-**![](https://lh3.googleusercontent.com/6dtJDGYeH1hYXoH_OepFeb9iB-K3xlZLwOsF5Cq6ucePkjJ3uxzvQDPSYQ3P3_jySVS-OzM15Qz8GhMPYIhbRBjFp-XHFRvRZDWQ_QckotJiGDdCWA8QGeG7PvAIBePGtW5QKxkH)****![](https://lh3.googleusercontent.com/9VRJGChIO41GDQoS3tn8jmDGAfSSjYnRacNU-8DDZ_3DA2yLHhxHyjKQ2FYTI6VNfPG947e3rxfqaIQhET7fjXkw3WlR6KHLo0LhlEtQdFC7lRPIv-77RejB_H5rIj6_MD2QHAFb)**
+**![](https://user-images.githubusercontent.com/62159014/110239870-5680d500-7f5a-11eb-8d10-e4dbfb44f920.jpg)****![](https://user-images.githubusercontent.com/62159014/110239885-626c9700-7f5a-11eb-9ffd-dfaa5db9af3e.jpg)**
 
-4-A mosaic plagiarism example (Out of scope of the program)**![](https://lh6.googleusercontent.com/0vJIItWmSzvrjkj9dhOJsan-cTNE-XBied8k6O2_bWwXcpNG-7yFHBeq0FTfA_785N9HfeLMTFZn5AK9tnb6ykByfxmu-VbkV-2GaiytbuVRe6P-_jd3oOCuwP8C5f0sZLqAi1FY)****![](https://lh6.googleusercontent.com/ySPxeOEPPTE5gTtijYsaSmLuHZHz-SWcDV6bZmq7dEqHB5XmAZu2Z7TerapbsbTg6oColAVJ_AitUdskJFUjqAdDsZU1tnLRtJ8Ms72Nmfai0MVJtJTNxyVZz_npfteIbhcNLTjP)**
+4-A mosaic plagiarism example (Out of scope of the program)**![](https://user-images.githubusercontent.com/62159014/110239898-6d272c00-7f5a-11eb-858f-4a3444c715e9.jpg)****![](https://user-images.githubusercontent.com/62159014/110239911-79ab8480-7f5a-11eb-8f70-8779f63721c9.jpg)**
